@@ -15,6 +15,7 @@ I want to learn Frond-End development. There is no experience in this area yet.
 1. HTML
 2. CSS
 3. Git
+4. VS code
 
 
 
